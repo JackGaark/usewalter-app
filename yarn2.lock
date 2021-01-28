@@ -4930,21 +4930,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@gqlapp/contact-client-react@^0.1.0, @gqlapp/contact-client-react@workspace:modules/contact/client-react":
-  version: 0.0.0-use.local
-  resolution: "@gqlapp/contact-client-react@workspace:modules/contact/client-react"
-  languageName: unknown
-  linkType: soft
-
 "@gqlapp/contact-common@workspace:modules/contact/common":
   version: 0.0.0-use.local
   resolution: "@gqlapp/contact-common@workspace:modules/contact/common"
-  languageName: unknown
-  linkType: soft
-
-"@gqlapp/contact-server-ts@workspace:modules/contact/server-ts":
-  version: 0.0.0-use.local
-  resolution: "@gqlapp/contact-server-ts@workspace:modules/contact/server-ts"
   languageName: unknown
   linkType: soft
 
@@ -5196,18 +5184,6 @@ __metadata:
 "@gqlapp/post-server-ts@workspace:modules/post/server-ts":
   version: 0.0.0-use.local
   resolution: "@gqlapp/post-server-ts@workspace:modules/post/server-ts"
-  languageName: unknown
-  linkType: soft
-
-"@gqlapp/reports-client-react@^0.1.0, @gqlapp/reports-client-react@workspace:modules/reports/client-react":
-  version: 0.0.0-use.local
-  resolution: "@gqlapp/reports-client-react@workspace:modules/reports/client-react"
-  languageName: unknown
-  linkType: soft
-
-"@gqlapp/reports-server-ts@workspace:modules/reports/server-ts":
-  version: 0.0.0-use.local
-  resolution: "@gqlapp/reports-server-ts@workspace:modules/reports/server-ts"
   languageName: unknown
   linkType: soft
 
@@ -14938,14 +14914,12 @@ __metadata:
     "@fortawesome/free-brands-svg-icons": ^5.8.1
     "@fortawesome/react-fontawesome": ^0.1.4
     "@gqlapp/chat-client-react": ^0.1.0
-    "@gqlapp/contact-client-react": ^0.1.0
     "@gqlapp/core-client-react": ^0.1.0
     "@gqlapp/forms-client-react": ^0.1.0
     "@gqlapp/i18n-client-react": ^0.1.0
     "@gqlapp/i18n-common-react": ^0.1.0
     "@gqlapp/module-client-react": ^0.1.0
     "@gqlapp/payments-client-react": ^0.1.0
-    "@gqlapp/reports-client-react": ^0.1.0
     "@gqlapp/validation-common-react": ^0.1.0
     "@loadable/component": ^5.10.1
     "@storybook/addon-actions": ^5.3.14
